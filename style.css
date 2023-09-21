@@ -1,0 +1,51 @@
+a{
+    text-decoration: none;
+    color: #00FA9A;
+}
+body {
+    background-color: #00FA9A;
+    margin: 20%;
+}
+#main-title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+#tribute-data {
+    background-color: rgb(46, 139, 87, 0.25);
+    border-radius: 10px;
+    margin: 11px;
+    margin-top: 50px;
+    padding: 25px 25px;
+    border:red solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 20px 20px 20px black;
+}
+
+h1.title2{
+    font-size: 35px;
+    color:black;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}  
+
+.summary {
+    background-color: red;
+    color: #000000;
+    border-radius: 10px;
+    width: 100%;
+    padding: 20px 20px;
+
+}
